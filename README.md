@@ -37,7 +37,7 @@ Setiap modul disusun berdasarkan pertemuan praktikum dan terdiri dari source cod
 │   └── Screenshot/
 ├── Modul 3/
 │   ├── Praktikum/
-│   └── Screenshot/
+│   
 ├── Modul 4/
 │   ├── Praktikum/
 │   └── Screenshot/
